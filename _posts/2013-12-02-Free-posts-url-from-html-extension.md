@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Free posts URIs from html extension
 ---
 # Free posts URIs from html extension

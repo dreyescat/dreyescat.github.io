@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Set up a website with Github Pages
 ---
 # Set up a website with GitHub Pages

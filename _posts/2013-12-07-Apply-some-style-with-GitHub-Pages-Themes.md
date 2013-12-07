@@ -38,15 +38,15 @@ Create a default layout.
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         <title>{{ page.title }}</title>
     
-        <link rel="stylesheet" href="assets/stylesheets/styles.css">
-        <link rel="stylesheet" href="assets/stylesheets/pygment_trac.css">
+        <link rel="stylesheet" href="/assets/stylesheets/styles.css">
+        <link rel="stylesheet" href="/assets/stylesheets/pygment_trac.css">
         <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
       </head>
       <body>
         {{ content }}
-        <script src="assets/javascripts/scale.fix.js"></script>
+        <script src="/assets/javascripts/scale.fix.js"></script>
       </body>
     </html>
     {% endraw %}
