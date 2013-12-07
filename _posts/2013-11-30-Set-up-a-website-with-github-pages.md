@@ -2,7 +2,7 @@
 layout: default
 title: Set up a website with Github Pages
 ---
-# Set up a website with GitHub Pages
+# {{ page.title }}
 
 [GitHub](http://github.com) gives us the possibility to host our site for free with [GitHub Pages](http://pages.github.com). There are two types of pages, [User/Organization Pages and Project Pages](https://help.github.com/articles/user-organization-and-project-pages). As our goal is to create a personal website we will go for the User Pages option.
 
