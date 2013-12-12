@@ -13,7 +13,17 @@
     <![endif]-->
   </head>
   <body>
-    {{ content }}
+    <div class="wrapper">
+      <header>
+        {% include header.html %}
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
     <script src="/assets/javascripts/scale.fix.js"></script>
   </body>
 </html>
